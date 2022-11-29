@@ -1,0 +1,31 @@
+.bdy{
+    background-color:#EFF5F5;
+   
+}
+h2{
+    
+    color:rgb(0, 0, 0);
+    margin:20px;
+}
+#coimg{
+   border-radius: 40px;
+   height: 80%;
+   width: 60%;
+}
+.row{
+   margin: 7%;
+}
+.wt{
+    color:#EFF5F5;
+}
+h3{
+    color:white;
+    font-size: 20px;
+}
+.fur{
+color: #EFF5F5;
+font-family: 'Montserrat', sans-serif;
+margin: 13.5%;
+text-decoration: none;
+}
+

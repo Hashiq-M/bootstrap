@@ -1,0 +1,17 @@
+.bdy{
+    background-color:#EFF5F5;
+}
+.container{
+    background-color: #212529;
+}
+h2{
+    color:#EFF5F5;
+}
+.tyr{
+    margin-top: 5%;
+    float: right;
+    padding: 75px;
+}
+a{
+    text-underline-position:none;
+}
